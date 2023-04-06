@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **GPT-related project**
 
-- 🌱 I’m currently learning **Docker & NLP**
+- 🌱 I’m currently learning ** Docker & NLP & Cloud Service**
 
 - 📫 How to reach me **ddman821101@gmail.com**
 
-- ⚡ Fun fact **I am good at Basketball :)**
+- ⚡ Fun fact **I am good at Basketball :basketball:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
