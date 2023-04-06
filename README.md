@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jerry Hsu</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Taiwan</h3>
 
-- 🔭 I’m currently working on **GPT-related**
+- 🔭 I’m currently working on **GPT-related project**
 
 - 🌱 I’m currently learning **Docker & NLP**
 
