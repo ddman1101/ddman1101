@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I am good at Basketball :basketball:**
 
-- :headphones: "Disk Jocket" **is my habits and I want to use AI to make it**
+- :headphones: "Disk Jocket" **is my habits and I love to use AI to try to make it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
