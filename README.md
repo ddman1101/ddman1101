@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jerry Hsu</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Taiwan</h3>
+<h3 align="center">A Machine Learning Engineer from Taipei</h3>
 
 - 🔭 I’m currently working on **GPT-related project**
 
