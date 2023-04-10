@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **GPT-related project**
 
-- 🌱 I’m currently learning ** Docker & NLP & Cloud Service**
+- 🌱 I’m currently learning **Docker & NLP & Cloud Service**
 
 - 📫 How to reach me **ddman821101@gmail.com**
 
