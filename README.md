@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jerry Hsu</h1>
 <h3 align="center">A Machine Learning Engineer from Taipei</h3>
 
-- 🔭 I’m currently working on **GPT-related project**
+- 🔭 I’m currently working on **GPT-related ML & CLV prediction**
 
-- 🌱 I’m currently learning **Docker & NLP & Cloud Service**
+- 🌱 I’m currently learning **Docker & NLP & Cloud Service & Prompt-engineering**
+
+- 👯 I’m looking to collaborate on **AI & Music related product or project**
 
 - 📫 How to reach me **ddman821101@gmail.com**
 
