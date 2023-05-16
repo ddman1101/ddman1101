@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Docker & NLP & Cloud Service & Prompt-engineering**
 
-- 👯 I’m looking to collaborate on **AI & Music related product or project**
-
 - 📫 How to reach me **ddman821101@gmail.com**
 
 - :headphones: "Disk Jocket" **is my habits and I love to use AI to make it act like a Real-world DJ**
