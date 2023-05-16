@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ddman821101@gmail.com**
 
-- ⚡ Fun fact **I am good at Basketball :basketball:**
-
 - :headphones: "Disk Jocket" **is my habits and I love to use AI to make it act like a Real-world DJ**
 
 <h3 align="left">Connect with me:</h3>
