@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jerry Hsu</h1>
 <h3 align="center">A Ph.D. Student from NTU (Taiwan)</h3>
 
-- 🔭 I’m currently working on **Latent-Diffusion & Drum Source Separation & Drum Transcription**
+- 🔭 I’m currently working on **Music Latent-Diffusion & Drum Source Separation & Drum Transcription**
 
 - 🌱 I’m currently learning **Music Information Retrieval & DSP**
 
