@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Music Information Retrieval & DSP**
 
-- 📫 How to reach me **ddman821101@gmail.com**
+- 📫 How to reach me : **ddman821101@gmail.com**
 
 - :headphones: "Disk Jocket" **is my habits and I love to use AI to make it act like a Real-world DJ**
 
