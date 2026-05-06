@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jerry Hsu</h1>
 <h3 align="center">A Ph.D. Student from NTU (Taiwan)</h3>
 
-- 🔭 I’m currently working on **Music Latent-Diffusion & Drum Source Separation & Drum Transcription**
+- 🔭 I’m currently working on **AI-DJ project**
 
-- 🌱 I’m currently learning **Music Information Retrieval & DSP**
+- 🌱 I’m currently focus on **DJ transition generation & evaluation**
 
 - 📫 How to reach me : **ddman821101@gmail.com**
 
-- :headphones: "Disk Jocket" **is my habits and I love to use AI to make it act like a Real-world DJ**
+- :headphones: "Disk Jockey" **is my habits and I love to use AI to make it act like a Real-world DJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
