@@ -1,29 +1,26 @@
-<!--
-**ddman1101/ddman1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Wei-Han (Jerry) Hsu
 
-Here are some ideas to get you started:
+PhD student at National Taiwan University and Academia Sinica, working with Li Su and Yi-Hsuan Yang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Jerry Hsu</h1>
-<h3 align="center">A Ph.D. Student from NTU (Taiwan)</h3>
+I work on AI for DJing: picking the next song, finding where it can come in, and checking that the mix actually holds up once it's rendered. Mostly pop, which is the hard case, because two sets of vocals rarely get along for more than a few bars.
 
-- 🔭 I’m currently work and do the research on **AI-DJ Issue**
+```
+ side A — research                                      where
+ ────────────────────────────────────────────────────────────────
+ 01  DJustify               LLM plans the mix; a checker     under review
+                            tests the render, asks for fixes
+ 02  Separate-and-Detect    drum stems with latent           ISMIR 2026
+                            diffusion, then transcription
+ 03  DJtransGAN             fader and EQ curves learned      ICASSP 2022
+                            from real DJ mixes (co-author)
 
-- 🌱 I’m currently focus on **DJ transition generation & evaluation**
+ side B — off the clock
+ ────────────────────────────────────────────────────────────────
+     DJing, basketball on weekends
+```
 
-- 📫 How to reach me : **ddman821101@gmail.com**
+[DJustify](https://github.com/ddman1101/DJustify) ·
+[Separate-and-Detect](https://github.com/ddman1101/Separate-and-detect) ·
+[DJtransGAN](https://github.com/ChenPaulYu/DJtransGAN)
 
-- :headphones: "Disk Jockey" **is my habits and I love to use AI to make it act like a Real-world DJ**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jerry hsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerry hsu" height="30" width="40" /></a>
-</p>
+More at [ddman1101.github.io](https://ddman1101.github.io/) · ddman821101@gmail.com
